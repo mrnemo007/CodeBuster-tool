@@ -1,0 +1,11 @@
+customtkinter
+python-nmap
+requests
+geoip2
+python-whois
+Pillow
+beautifulsoup4
+dnspython 
+PyPDF2
+python-docx
+ExifRead 
